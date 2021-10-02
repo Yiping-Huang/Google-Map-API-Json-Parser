@@ -1,2 +1,2 @@
-# Google-Map-API-Json-Parser
+# Google-Map-API-Json-Parser (Coursera Assignment)
 This project is a Coursera Assignment which is adapted from the original code provided by Professor Charles Severance. This program can return the location information about the place that user entered. This information is got from Google Map's free api with json to parse the data. 
